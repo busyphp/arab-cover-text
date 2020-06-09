@@ -1,0 +1,21 @@
+{
+	"name"              : "busyphp/arab-cover-text",
+	"type"              : "library",
+	"description"       : "",
+	"authors"           : [
+		{
+			"name"  : "busy^life",
+			"email" : "busy.life@qq.com"
+		}
+	],
+	"license"           : "Apache-2.0",
+	"minimum-stability" : "dev",
+	"autoload"          : {
+		"psr-4" : {
+			"BusyPHP\\" : "src"
+		}
+	},
+	"config"            : {
+		"preferred-install" : "dist"
+	}
+}
