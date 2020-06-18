@@ -1,6 +1,8 @@
 <?php
 
-namespace BusyPHP;
+namespace BusyPHP\helper;
+
+use BusyPHP\helper\child\UG;
 
 /**
  * 阿拉伯字符修正

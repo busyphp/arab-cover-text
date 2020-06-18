@@ -5,7 +5,7 @@ arab-cover-text
 
 ~~~php
 <?php
-$cover = new \BusyPHP\ArabCoverText();
+$cover = new \BusyPHP\helper\ArabCoverText();
 $string = $cover->convert('ئالما نۇسقىسنى چۈشرۈش');
 
 var_dump($string);

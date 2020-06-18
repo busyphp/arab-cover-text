@@ -1,6 +1,6 @@
 <?php
 
-namespace BusyPHP;
+namespace BusyPHP\helper\child;
 
 class UG
 {
