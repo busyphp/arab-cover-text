@@ -7,10 +7,10 @@ use BusyPHP\helper\child\UG;
 /**
  * 阿拉伯字符修正
  * @author busy^life <busy.life@qq.com>
- * @copyright (c) 2015--2019 ShanXi Han Tuo Technology Co.,Ltd. All rights reserved.
- * @version $Id: 2020/6/9 下午11:45 下午 ArabCoverText.php $
+ * @copyright (c) 2015--2021 ShanXi Han Tuo Technology Co.,Ltd. All rights reserved.
+ * @version $Id: 2021/10/22 下午下午12:04 ArabCoverHelper.php $
  */
-class ArabCoverText
+class ArabCoverHelper
 {
     const BASELEN   = 256;
     

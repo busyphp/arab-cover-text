@@ -1,14 +1,14 @@
 {
 	"name"              : "busyphp/arab-cover-text",
 	"type"              : "library",
-	"description"       : "",
+	"description"       : "阿拉伯字符顺序修正",
 	"authors"           : [
 		{
 			"name"  : "busy^life",
 			"email" : "busy.life@qq.com"
 		}
 	],
-	"license"           : "Apache-2.0",
+	"license"     : "CC-BY-NC-4.0",
 	"minimum-stability" : "dev",
 	"autoload"          : {
 		"psr-4" : {
